@@ -7,7 +7,9 @@
 # ==============================================================================
 #
 # 1. PULL FIRST (Start of day)
-#    Open R project 
+#    Go directly to my computer;s file folder Desktop > Biometry > Agrivoltaics > testrepo2
+#    Double-click the testrepo2.Rproj file.
+#    This automatically launches RStudio with your project active, your Git pane ready, and your files open.
 #    Go to the 'Git' tab in the top-right pane.
 #    Click the blue down arrow (Pull) to grab any changes from online.
 #
